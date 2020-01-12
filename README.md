@@ -1,4 +1,4 @@
-# ncl2
+# Supplementary repository to replicate the network analysis in the paper: TITLE
 
 [![Build Status](https://travis-ci.org/networkx/networkx.svg?branch=master)](https://singularity-hub.org/collections/3653)
 
@@ -129,9 +129,3 @@ Distributed under the MIT License.
 
 ## Contact for issues or support about the usage of the method
 Luca Giudice - [github](https://github.com/LucaGiudice/) - luca.giudice@univr.it
-
-## Acknowledgements
-- Luca Giudice - [github](https://github.com/LucaGiudice/) - luca.giudice@univr.it
-- Maninder Heer - [github](https://github.com/manind95/) - m.heer2@newcastle.ac.uk
-- Daniel Rico - [github](https://github.com/manind95/) - daniel.rico@newcastle.ac.uk
-- Rosalba Giugno - rosalba.giugno@univr.it

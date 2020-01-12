@@ -8,7 +8,7 @@ Propagation of gene expression through HiC-derived networks illuminates active a
 ***WORKFLOW OF THE METHOD***
 ********************************
 
-![Test Image 8](https://raw.githubusercontent.com/LucaGiudice/ncl2/master/github_suppl/workflow.png?token=AHESZ3QXMHRY6R46YY5BABK53ZYXM)
+![Test Image 8](https://raw.githubusercontent.com/LucaGiudice/suppl_miR-669c-3p/master/output/Network_expanded/images/network_analysis_overview.png)
 
 ********************************
 ***INSTALLATION AND USAGE***

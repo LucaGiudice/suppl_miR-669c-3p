@@ -1,4 +1,4 @@
-# Supplementary repository to replicate the network analysis in the paper: TITLE
+# Supplementary repository to replicate the network analysis in the paper: Intracerebral overexpression of miR-669c is protective in mouse ischemic stroke model by targeting MyD88 and inducing alternative microglial/macrophage activation
 
 The analysis, the plots and the enrichment tables are already in this repository (output directory) to allow immediately the best comprehension of the work made. Entering more into the analysis, this is used to highlight the fact that: MYD88 is a strong candidate gene to study when miR-669c-3P is under investigation. 
 
